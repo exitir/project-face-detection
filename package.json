@@ -1,6 +1,6 @@
 {
   "name": "face-detection-application",
-  "homepage": "https://github.com/exitir/face-detection-application",
+  "homepage": "https://exitir.github.io/project-face-detection",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
