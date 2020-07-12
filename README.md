@@ -8,3 +8,5 @@ Steps to run the application on local:
 -- run "npm install"
 
 -- run "npm start"
+
+See in action: https://exitir.github.io/project-face-detection/
